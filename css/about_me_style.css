@@ -42,7 +42,11 @@
     padding-left: 35px;
     padding-right: 35px;
 }
-
+.andy {
+    color: rgb(16, 235, 100);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+}
 .links {
     color:rgb(16, 235, 100); 
     font-family: 'Gloria Hallelujah', cursive;
