@@ -18,3 +18,5 @@ twitch.com/zakk_havok
 Zakk Ryan Haug
 
 **Links for site/github**
+https://zakklikeslamps.github.io/about_me_profile/
+https://github.com/zakklikeslamps/about_me_profile
